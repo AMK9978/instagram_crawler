@@ -16,7 +16,6 @@ Instagram crawler for tracking interactions of users, such as like, comment and 
 
 ## Contributing
 
-* Ensure any install or build dependencies are removed before the end of the layer when doing a build.
 * Update the README.md with details of changes to the interface and anything else.
 * Increase the version numbers in any examples files and the README.md to the new version that this Pull Request would represent.
 * Your pull request will be checked and merged(If approved).
